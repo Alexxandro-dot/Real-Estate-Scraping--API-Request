@@ -12,3 +12,6 @@ Data Scraped:
 <br>#detailUrl 
 <br>#latitude
 <br>#longitude 
+
+
+Storing in JSON AND XLSX
