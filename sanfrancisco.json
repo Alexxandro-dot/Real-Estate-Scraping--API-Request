@@ -1,0 +1,222 @@
+[
+    {
+        "id": "37.783892--122.432008",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISy3x3fl50en980000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Webster Tower and Terrace",
+        "detailUrl": "https://www.zillow.com/b/webster-tower-and-terrace-san-francisco-ca-5Xk3Sh/",
+        "latitude": 37.783892,
+        "longitude": -122.432008,
+        "address": "1489 Webster St, San Francisco, CA"
+    },
+    {
+        "id": "2080434169",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISfg5rll80etdw1000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Apartment for rent",
+        "detailUrl": "https://www.zillow.com/homedetails/312-Filmore-24-24-San-Francisco-CA-94124/2080434169_zpid/",
+        "latitude": 37.731902,
+        "longitude": -122.385291,
+        "address": "312 Filmore 24 24, San Francisco, CA 94124"
+    },
+    {
+        "id": "37.771795--122.426627",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISrpswsqyxo8fa1000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Alchemy",
+        "detailUrl": "https://www.zillow.com/b/alchemy-san-francisco-ca-65fGFR/",
+        "latitude": 37.771795,
+        "longitude": -122.426627,
+        "address": "200 Buchanan St, San Francisco, CA"
+    },
+    {
+        "id": "37.775824--122.417254",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISfcezebf8bhtk0000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "NEMA",
+        "detailUrl": "https://www.zillow.com/b/nema-san-francisco-ca-5Xsmy4/",
+        "latitude": 37.775824,
+        "longitude": -122.417254,
+        "address": "8 10th St, San Francisco, CA"
+    },
+    {
+        "id": "2086057351",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISm2slk2y80csx0000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Apartment for rent",
+        "detailUrl": "https://www.zillow.com/homedetails/701-Pennsylvania-Ave-APT-207-San-Francisco-CA-94107/2086057351_zpid/",
+        "latitude": 37.757358,
+        "longitude": -122.392841,
+        "address": "701 Pennsylvania Ave APT 207, San Francisco, CA 94107"
+    },
+    {
+        "id": "249665551",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISr90cp6qjoogz0000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Apartment for rent",
+        "detailUrl": "https://www.zillow.com/homedetails/1000-3rd-St-406-San-Francisco-CA-94158/249665551_zpid/",
+        "latitude": 37.775364,
+        "longitude": -122.390393,
+        "address": "1000 3rd St # 406, San Francisco, CA 94158"
+    },
+    {
+        "id": "2080436891",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISf09vq1g5s2tu1000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Apartment for rent",
+        "detailUrl": "https://www.zillow.com/homedetails/4010-Mission-St-San-Francisco-CA-94112/2080436891_zpid/",
+        "latitude": 37.733432,
+        "longitude": -122.427001,
+        "address": "4010 Mission St, San Francisco, CA 94112"
+    },
+    {
+        "id": "2080436892",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISnmzw5bptx56v1000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Apartment for rent",
+        "detailUrl": "https://www.zillow.com/homedetails/2390-Chestnut-St-205-San-Francisco-CA-94123/2080436892_zpid/",
+        "latitude": 37.800209,
+        "longitude": -122.442592,
+        "address": "2390 Chestnut St # 205, San Francisco, CA 94123"
+    },
+    {
+        "id": "79841244",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISizu20lo0dkhi0000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Apartment for rent",
+        "detailUrl": "https://www.zillow.com/homedetails/1050-17th-St-APT-401-San-Francisco-CA-94107/79841244_zpid/",
+        "latitude": 37.765421,
+        "longitude": -122.394394,
+        "address": "1050 17th St APT 401, San Francisco, CA 94107"
+    },
+    {
+        "id": "37.78726--122.396264",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISqxufruslk9jv0000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "33 Tehama",
+        "detailUrl": "https://www.zillow.com/b/33-tehama-san-francisco-ca-BNKVBY/",
+        "latitude": 37.78726,
+        "longitude": -122.396264,
+        "address": "33 Tehama St, San Francisco, CA"
+    },
+    {
+        "id": "37.776721--122.419177",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISjr844hljqpx51000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "100 Van Ness",
+        "detailUrl": "https://www.zillow.com/b/100-van-ness-san-francisco-ca-5hJ5Sv/",
+        "latitude": 37.776721,
+        "longitude": -122.419177,
+        "address": "100 Van Ness Ave, San Francisco, CA"
+    },
+    {
+        "id": "2086547080",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISz7w1kg9viyml1000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Apartment for rent",
+        "detailUrl": "https://www.zillow.com/homedetails/390-29th-Ave-APT-3-San-Francisco-CA-94121/2086547080_zpid/",
+        "latitude": 37.782015,
+        "longitude": -122.488904,
+        "address": "390 29th Ave APT 3, San Francisco, CA 94121"
+    },
+    {
+        "id": "2080437771",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/IS3fcyurifi6cl1000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Apartment for rent",
+        "detailUrl": "https://www.zillow.com/homedetails/289-Graystone-Ter-APT-1-San-Francisco-CA-94114/2080437771_zpid/",
+        "latitude": 37.756909,
+        "longitude": -122.443938,
+        "address": "289 Graystone Ter APT 1, San Francisco, CA 94114"
+    },
+    {
+        "id": "2080437770",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISrxiydbv37ybl1000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Apartment for rent",
+        "detailUrl": "https://www.zillow.com/homedetails/4740-Balboa-St-503-San-Francisco-CA-94121/2080437770_zpid/",
+        "latitude": 37.775392,
+        "longitude": -122.509783,
+        "address": "4740 Balboa St # 503, San Francisco, CA 94121"
+    },
+    {
+        "id": "37.778888--122.439516",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/IS3rtvta79mwyg0000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "1750 Golden Gate Apartments",
+        "detailUrl": "https://www.zillow.com/b/1750-golden-gate-apartments-san-francisco-ca-5j4CFy/",
+        "latitude": 37.778888,
+        "longitude": -122.439516,
+        "address": "1750 Golden Gate Ave, San Francisco, CA"
+    },
+    {
+        "id": "37.772235--122.421878",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISjb89vry2jebd1000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "The Rise Hayes Valley",
+        "detailUrl": "https://www.zillow.com/b/the-rise-hayes-valley-san-francisco-ca-9NJtwq/",
+        "latitude": 37.772235,
+        "longitude": -122.421878,
+        "address": "1699 Market St, San Francisco, CA"
+    },
+    {
+        "id": "37.711499--122.391802",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISq59wn8b5puz70000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Ashton San Francisco Apartments",
+        "detailUrl": "https://www.zillow.com/b/ashton-san-francisco-apartments-san-francisco-ca-5XjLVd/",
+        "latitude": 37.711499,
+        "longitude": -122.391802,
+        "address": "301 Executive Park Blvd, San Francisco, CA"
+    },
+    {
+        "id": "37.764768--122.39479",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/IS3naek317y2r40000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "SoMa Square",
+        "detailUrl": "https://www.zillow.com/b/soma-square-san-francisco-ca-5Xj2Yr/",
+        "latitude": 37.764768,
+        "longitude": -122.39479,
+        "address": "1 Saint Francis Pl, San Francisco, CA"
+    },
+    {
+        "id": "2080438789",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISf0dibwktuptf0000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Apartment for rent",
+        "detailUrl": "https://www.zillow.com/homedetails/1815-40th-Ave-FLOOR-1-San-Francisco-CA-94122/2080438789_zpid/",
+        "latitude": 37.752888,
+        "longitude": -122.499212,
+        "address": "1815 40th Ave FLOOR 1, San Francisco, CA 94122"
+    },
+    {
+        "id": "2086460270",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISblylzq3ajdrr0000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Apartment for rent",
+        "detailUrl": "https://www.zillow.com/homedetails/2175-Market-St-APT-513-San-Francisco-CA-94114/2086460270_zpid/",
+        "latitude": 37.766502,
+        "longitude": -122.429865,
+        "address": "2175 Market, A06"
+    },
+    {
+        "id": "67395642",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/ISj36qs8e506b51000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Apartment for rent",
+        "detailUrl": "https://www.zillow.com/homedetails/939-Vermont-St-San-Francisco-CA-94107/67395642_zpid/",
+        "latitude": 37.757793,
+        "longitude": -122.403438,
+        "address": "939 Vermont St, San Francisco, CA 94107"
+    },
+    {
+        "id": "2080439725",
+        "imgSrc": "https://photos.zillowstatic.com/p_e/IS3729y6lo0qh81000000000.jpg",
+        "statusType": "FOR_RENT",
+        "statusText": "Apartment for rent",
+        "detailUrl": "https://www.zillow.com/homedetails/480-9th-Ave-2-San-Francisco-CA-94118/2080439725_zpid/",
+        "latitude": 37.77938,
+        "longitude": -122.467058,
+        "address": "480 9th Ave # 2, San Francisco, CA 94118"
+    },
+    
