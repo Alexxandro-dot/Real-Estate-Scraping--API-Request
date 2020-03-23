@@ -15,23 +15,23 @@ def cookie_parser():
         cookies[key]= morsel.value
 
     return cookies
-    #print(cookies)
+    
 def parse_new_url(url, page_number):
-    #in order to access the url string
+    
     url_parsed=urlparse(url)
     query_string=parse_qs(url_parsed.query)
-    # print(query_string)
+    
     search_query_state= json.loads(query_string.get('searchQueryState')[0])
-    #print(type(search_query_state))
+    
 
     search_query_state ['pagination']= {"currentPage":page_number}
-    #print(search_query_state)
+    
     query_string.get('searchQueryState')[0]= search_query_state
-    #print (query_string)
+    
     encoded_qs=urlencode(query_string, doseq=1)
     new_url=f"https://www.zillow.com/search/GetSearchPageState.htm?{encoded_qs}"
-    #print(new_url)
+    
     return new_url
 
-    #url pagenumber 3:
+    
 parse_new_url(URL,6)
